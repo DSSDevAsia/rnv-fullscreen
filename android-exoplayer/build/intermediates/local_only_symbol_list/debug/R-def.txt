@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+id enclosing_layout
+id exo_fullscreen_button
+id exo_fullscreen_icon
+id exo_play_pause_container
+id player_controls
+id player_view
+layout exo_player_control_view
+layout exo_player_fullscreen_video
+string error_drm_not_supported
+string error_drm_unknown
+string error_drm_unsupported_scheme
+string error_instantiating_decoder
+string error_no_decoder
+string error_no_secure_decoder
+string error_querying_decoders
+string unrecognized_media_format

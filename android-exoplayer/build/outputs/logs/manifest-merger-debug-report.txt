@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:2:11-41
+		INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+		ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:1:1-9:12
+		INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+		ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:1:1-9:12
+		INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:3:5-8:19
+activity#com.brentvatne.exoplayer.ExoPlayerFullscreenVideoActivity
+ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:4:9-7:46
+	android:launchMode
+		ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:7:13-43
+	android:configChanges
+		ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:6:13-74
+	android:name
+		ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml:5:13-85
+uses-sdk
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+		ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+		ADDED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevin/Desktop/DSS/HAPIGIG-Dev/source/gig-react-app-src/node_modules/react-native-video/android-exoplayer/src/main/AndroidManifest.xml
